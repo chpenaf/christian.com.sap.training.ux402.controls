@@ -23,7 +23,9 @@ sap.ui.define([
 		],
 		interfaces: [],
 		controls: [
-			"christian.com.sap.training.ux402.controls.Example"
+			"christian.com.sap.train­ing.ux402.controls.PlaneInfo",
+			"christian.com.sap.training.ux402.controls.HoverButton",
+			"christian.com.sap.training.ux402.controls.PlaneInfoRenderer"
 		],
 		elements: [],
 		noLibraryCSS: false // if no CSS is provided, you can disable the library.css load here
